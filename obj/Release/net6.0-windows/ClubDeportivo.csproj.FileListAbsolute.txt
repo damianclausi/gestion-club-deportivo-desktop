@@ -1,0 +1,88 @@
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\ClubDeportivo.exe
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\ClubDeportivo.deps.json
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\ClubDeportivo.runtimeconfig.json
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\ClubDeportivo.dll
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\ClubDeportivo.pdb
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\Google.Protobuf.dll
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\MySql.Data.dll
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\System.Text.Json.dll
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\ZstdSharp.dll
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\bin\Release\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ClubDeportivo.csproj.AssemblyReference.cache
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ClubDeportivo.frmCarnet.resources
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ClubDeportivo.frmClientesActividadView.resources
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ClubDeportivo.frmComprobante.resources
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ClubDeportivo.frmIncripcion.resources
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ClubDeportivo.frmLogin.resources
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ClubDeportivo.frmMorososView.resources
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ClubDeportivo.frmPago.resources
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ClubDeportivo.frmPrincipal.resources
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ClubDeportivo.Properties.Resources.resources
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ClubDeportivo.csproj.GenerateResource.cache
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ClubDeportivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ClubDeportivo.AssemblyInfoInputs.cache
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ClubDeportivo.AssemblyInfo.cs
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ClubDeportivo.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ClubDeportivo.sourcelink.json
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ClubDepo.31FF01E1.Up2Date
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ClubDeportivo.dll
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\refint\ClubDeportivo.dll
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ClubDeportivo.pdb
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ClubDeportivo.genruntimeconfig.cache
+C:\Users\Damian\Source\Repos\damianclausi\ClubDeportivo_ENTREGA-FINAL-EJECUTABLE-SOLO-DEMO-\obj\Release\net6.0-windows\ref\ClubDeportivo.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\ClubDeportivo.exe
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\ClubDeportivo.deps.json
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\ClubDeportivo.runtimeconfig.json
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\ClubDeportivo.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\ClubDeportivo.pdb
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\Google.Protobuf.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\MySql.Data.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\System.Text.Json.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\ZstdSharp.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\bin\Release\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ClubDeportivo.csproj.AssemblyReference.cache
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ClubDeportivo.frmCarnet.resources
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ClubDeportivo.frmClientesActividadView.resources
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ClubDeportivo.frmComprobante.resources
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ClubDeportivo.frmIncripcion.resources
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ClubDeportivo.frmLogin.resources
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ClubDeportivo.frmMorososView.resources
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ClubDeportivo.frmPago.resources
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ClubDeportivo.frmPrincipal.resources
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ClubDeportivo.Properties.Resources.resources
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ClubDeportivo.csproj.GenerateResource.cache
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ClubDeportivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ClubDeportivo.AssemblyInfoInputs.cache
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ClubDeportivo.AssemblyInfo.cs
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ClubDeportivo.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ClubDeportivo.sourcelink.json
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ClubDepo.31FF01E1.Up2Date
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ClubDeportivo.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\refint\ClubDeportivo.dll
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ClubDeportivo.pdb
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ClubDeportivo.genruntimeconfig.cache
+C:\Users\Damian\Desktop\PI_2_ComD_Grupo9_Clausi_Descosido_Diaz_Gill\Club Deportivo - Codigo\obj\Release\net6.0-windows\ref\ClubDeportivo.dll
